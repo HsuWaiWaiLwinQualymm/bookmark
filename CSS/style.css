@@ -94,6 +94,7 @@ nav .logo{
     margin: 20px;
     cursor: pointer;
     font-size: 25px;
+    z-index: 1000;
 }
 
 .hero .main-content{
@@ -600,7 +601,7 @@ nav .logo{
         margin-bottom: 70px;
     }
     header nav .logo{
-        z-index: 100;
+        z-index: 1000;
         color: #fff;
     }
     header nav ul li a{
